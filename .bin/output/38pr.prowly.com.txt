@@ -1,0 +1,12 @@
+facebook
+js
+keyValue
+mini
+q
+text
+twitter
+u
+url
+utf8
+utm_campaign
+utm_source

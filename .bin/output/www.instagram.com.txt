@@ -1,0 +1,17 @@
+aa
+__annotator
+apply
+babelHelpers
+__DEV__
+ES
+global
+globalThis
+oa
+sandboxSafelist
+self
+ta
+__transform_includes
+undefined
+__w
+xa
+ya
